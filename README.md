@@ -1,2 +1,3 @@
 # os-tut-4 - Jeopardy Implementation
-Tutorial 2 3 - Tutorial 74027
+rupam mittal - 100640634
+rishab singh - 100787473
